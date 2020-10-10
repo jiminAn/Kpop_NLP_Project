@@ -24,7 +24,7 @@
 
 ## 2020/10/10
 ### 제출 양식에 맞게 컬럼 수정
-- ipynb <melon_song_data_crawling> 수정
+**ipynb <melon_song_data_crawling> 수정**  
 1. 년도 : 0000.00.00 -> yyyymmdd로 수정(아직 안함, 서브라임에서 대체해도 될듯)
 2. 남녀 : 남/여 -> male/female로 수정
 3. 최고순위 : 컬럼만 추가하고 None 값 디폴트, 최고순위는 크롤링이 안돼서 직접 찾아야 함
