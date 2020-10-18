@@ -28,7 +28,7 @@
 
 : 간트차트
 
-![image-20201017195732520](/Users/mac/Library/Application Support/typora-user-images/image-20201017195732520.png)
+![image-20200930195006846](https://github.com/jiminAn/Kpop_NLP_Project/blob/master/img/1.png)
 
 ## 프로젝트 제안 발표
 
