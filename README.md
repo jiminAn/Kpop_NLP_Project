@@ -15,10 +15,10 @@
 
 | 팀원                                                | 역할              | 책임 |
 | --------------------------------------------------- | ----------------- | ---- |
-| [jiminAn(안지민)](https://github.com/jiminAn)       | 팀장 |   |
-| [201810794(이은후)](https://github.com/201810794)   |      |      |
-| [kky0426(김준영)](https://github.com/kky0426)       |     |      |
-| [lee1996-ui(이선우)](https://github.com/lee1996-ui) |      |      |
+| [jiminAn(안지민)](https://github.com/jiminAn)       | 팀장 |LDA 모델 설계|
+| [201810794(이은후)](https://github.com/201810794)   |      |K-means 모델 설계|
+| [kky0426(김준영)](https://github.com/kky0426)       |     |LDA 모델 설계|
+| [lee1996-ui(이선우)](https://github.com/lee1996-ui) |      |문서|
 
 
 
