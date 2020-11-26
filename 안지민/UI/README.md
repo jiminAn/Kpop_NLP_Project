@@ -8,3 +8,12 @@
 
 **ver 1.0 영상**.       
 <img src='imgs/ui_ver_1_0.gif' align="left" width=1000>
+
+## 2020/11/26
+### ver 1.1 UI
+
+- 년대 별 노래 속성 추가(발매년도/가수/노래제목/장르/가사)
+- 곡 상세 정보 추가(노래 속성 확인 가능)
+
+**ver 1.1 영상**
+<img src='imgs/ui_ver_1_1.gif' align="right" width=1000>
