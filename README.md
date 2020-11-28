@@ -7,10 +7,14 @@
 
 ## LDA 모델을 적용한 UI
 1. 년도별 노래 선택 -> 곡 상세정보 확인 가능
+
 <img src='img/1.gif' align="right" width=1000>
-<img src='img/2.gif' align="right" width=1000>
-2. 비슷한 분위기의 곡 추천 가능 : 추천 년도 선택 -> 비슷한 분위기의 노래 리스트 생성
-<img src='img/3.gif' align="right" width=1000>
+<img src='img/2.gif' align="right" width=1000>  
+
+2. 비슷한 분위기의 곡 추천 가능 : 추천 년도 선택 -> 비슷한 분위기의 노래 리스트 생성  
+
+<img src='img/3.gif' align="right" width=1000>  
+
 
 # Team Member
 
