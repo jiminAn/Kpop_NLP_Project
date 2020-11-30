@@ -8,7 +8,7 @@
   * 94_95_kpop_final(.tsv): 위 파일 실행 후 tsv형태로 저장한 파일 (최종파일)
   
 
-## 2. [modeling] 파일: 노래가사 대상으로 K-means, LDA모델 적용
+## 2. [modeling] 파일: 노래가사 대상으로 LDA모델, K-means 적용
   * preprocess(.ipynb): 알고리즘 적용 위해 필요한 형태로 데이터 전처리  
   * **[LDA] 파일**
     * LDA modeling_(.ipynb): (추가 전처리 후) 노래가사(한글+영어) LDA모델 적용하여 테마별 시각화
