@@ -1,11 +1,11 @@
 # LOG
 -----------------
 ## 1. [song crawling] 파일: 멜론 사이트에서 아이돌 노래정보 크롤링
-  * try2_create_idol_id(.ipynb): 90년대 가수들 대상 멜론에서 부여된 id 크롤링
-  * idol_list_with_id(.csv): 위 파일 실행 후 csv형태로 저장한 파일 (각 아이돌별 id열 추가된 형태)
-  * 94to95_idol_list(.csv): 위 파일 중 담당년도(94,95)에 해당하는 가수들만 따로 저장한 파일
-  * melon_crawling20(.ipynb): 담당년도 가수당 곡 인기순 정렬 후 20개씩 곡정보 크롤링
-  * 94_95_kpop_final(.tsv): 위 파일 실행 후 tsv형태로 저장한 파일 (최종파일)
+  * `try2_create_idol_id(.ipynb)`: 90년대 가수들 대상 멜론에서 부여된 id 크롤링
+  * `idol_list_with_id(.csv)`: 위 파일 실행 후 csv형태로 저장한 파일 (각 아이돌별 id열 추가된 형태)
+  * `94to95_idol_list(.csv)`: 위 파일 중 담당년도(94,95)에 해당하는 가수들만 따로 저장한 파일
+  * `melon_crawling20(.ipynb)`: 담당년도 가수당 곡 인기순 정렬 후 20개씩 곡정보 크롤링
+  * `94_95_kpop_final(.tsv)`: 위 파일 실행 후 tsv형태로 저장한 파일 (최종파일)
   
 
 ## 2. [modeling] 파일: 노래가사 대상으로 LDA모델, K-means 적용
