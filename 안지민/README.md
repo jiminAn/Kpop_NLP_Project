@@ -49,7 +49,7 @@
 - 각 노래 별 장르 띄어주기
 
 **ver 1.0 영상**.       
-<img src='imgs/ui_ver_1_0.gif' align="left" width=1000>
+<img src='UI/imgs/ui_ver_1_0.gif' align="left" width=1000>
 
 ## 2020/11/26
 ### ver 1.1 UI
@@ -58,7 +58,7 @@
 - 곡 상세 정보 추가(노래 속성 확인 가능)
 
 **ver 1.1 영상**
-<img src='imgs/ui_ver_1_1.gif' align="right" width=1000>
+<img src='UI/imgs/ui_ver_1_1.gif' align="right" width=1000>
 
 ## 2020/11/28
 ### ver 2.0 UI
@@ -68,7 +68,7 @@
 - 분위기 별 시대별 추천 가능
 
 **ver 2.0 영상**
-<img src='imgs/ui_ver_2_0.gif' align="right" width=1000>
+<img src='UI/imgs/ui_ver_2_0.gif' align="right" width=1000>
 
 
 
