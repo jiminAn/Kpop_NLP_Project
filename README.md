@@ -84,7 +84,7 @@
 
 ### 프로젝트 최종 제안 발표
 
-[![팀뉴트로 : 프로젝트 제안 발표](https://img.youtube.com/vi/2f8qpfL4log8/0.jpg)](https://www.youtube.com/watch?v=f8qpfL4log8)
+[![팀뉴트로 : 프로젝트 제안 발표](https://img.youtube.com/vi/f8qpfL4log8/0.jpg)](https://www.youtube.com/watch?v=f8qpfL4log8)
 
 ## 핵심 코드
 
