@@ -76,11 +76,15 @@
 
 ![image-20200930195006846](https://github.com/jiminAn/Kpop_NLP_Project/blob/master/img/1.png)
 
-## 프로젝트 중간 제안 발표
+## 프로젝트 제안 발표
 
-: 아래 사진을 클릭하면 유튜브에서 프로젝트 제안 발표 영상을 보실 수 있습니다.
+### 프로젝트 중간 제안 발표
 
 [![팀뉴트로 : 프로젝트 제안 발표](https://img.youtube.com/vi/28hdOUgEhpc/0.jpg)](https://www.youtube.com/watch?v=28hdOUgEhpc&t=733s)
+
+### 프로젝트 최종 제안 발표
+
+[![팀뉴트로 : 프로젝트 제안 발표](https://img.youtube.com/vi/2f8qpfL4log8/0.jpg)](https://www.youtube.com/watch?v=f8qpfL4log8)
 
 ## 핵심 코드
 
