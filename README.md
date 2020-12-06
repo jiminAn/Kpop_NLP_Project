@@ -19,6 +19,10 @@
 
 
 ## LDA 모델을 적용한 <비슷한 분위기의 다른 세대 노래 추천 프로그램>
+
+### 기술시연 영상
+[![팀뉴트로 : 프로젝트 제안 발표](https://img.youtube.com/vi/8k6KAMpu6sM/0.jpg)](https://www.youtube.com/watch?v=8k6KAMpu6sM)
+
 ### 기능1. 년도별 노래 선택 -> 곡 상세정보 확인 가능
 
 <img src='img/1.gif' align="right" width=1000>
